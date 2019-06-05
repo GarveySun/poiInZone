@@ -1,0 +1,23 @@
+{
+  "name": "@garvey/poi-in-zone",
+  "version": "1.0.0",
+  "description": "Determine if the point is within the area",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarveySun/poiInZone.git"
+  },
+  "keywords": [
+    "poi",
+    "in"
+  ],
+  "author": "garveysun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GarveySun/poiInZone/issues"
+  },
+  "homepage": "https://github.com/GarveySun/poiInZone#readme"
+}
