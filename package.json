@@ -1,6 +1,6 @@
 {
   "name": "@garvey/poi-in-zone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Determine if the point is within the area",
   "main": "./src/index.js",
   "scripts": {
